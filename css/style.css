@@ -48,11 +48,11 @@ h1
 }
 h2
 {
-    color: white;
+    color: black;
 }
 h3
 {
-    color: black;
+    color: white;
 }
 
 .bred
@@ -241,6 +241,6 @@ body {
     float: left;
     left: 68%;
     width: 360px; 
-    height: 230px;
-    top: 110px;
+    height: 210px;
+    top: 95px;
 }
